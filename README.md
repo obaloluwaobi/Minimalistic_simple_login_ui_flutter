@@ -1,16 +1,10 @@
-# untitled9
+# Day 2 out of 100days
 
-A new Flutter project.
+check out this simple minimalitics Login UI built using Flutter
 
-## Getting Started
+##Screenshot 
+#login
+![Capture3](https://github.com/obaloluwaobi/Minimalistic_simple_login_ui_flutter/assets/101903208/0300ba20-d6e1-41ca-9079-d9c13fe8c4ce
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#signup
+![Capture2](https://github.com/obaloluwaobi/Minimalistic_simple_login_ui_flutter/assets/101903208/71dc5f4f-0021-4f92-99b2-53faed75a0be)
